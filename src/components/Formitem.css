@@ -1,0 +1,31 @@
+.btncontainer{
+    margin: 3rem;
+    align-items: center;
+    text-align: left;
+    width: 10rem;
+    height: 11rem;
+    background-color: white;
+    border-radius: 1rem;
+    border: 2px solid gray;
+}
+
+.btncontainer:hover {
+    border: 2px solid #5A4AD1;
+
+}
+
+.mainbtnd{
+    display: flex;
+    float: left;
+    align-items: center;
+    margin-left: 3rem;
+}
+
+.logoclas{
+    width: 6rem;
+    margin: 1rem;
+}
+
+.icn:hover{
+    color: #5A4AD1;
+}
